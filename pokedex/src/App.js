@@ -1,4 +1,5 @@
-import Pokedex from "./Pokedex";
+import Pokegame from "./Pokegame";
+// import {defaultPokemons} from './Pokedex'
 import "./App.css";
 
 function App() {
